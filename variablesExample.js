@@ -4,6 +4,8 @@
 // let str1="javascript";
 //  let x=32, y="hello there";
 
+
+// just like that
 // console.log(x + y);
 
 let arr=['aaa','bbb','ccc'];
