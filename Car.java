@@ -27,6 +27,10 @@ public class Car {
 	System.out.println(c1.wheels);//3
 	System.out.println(c2.wheels);//3
 	
+	System.out.println("added new line");
+	System.out.println("added new line");
+	System.out.println("added new line");
+	
 	
 	
 	
